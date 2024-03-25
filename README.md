@@ -22,6 +22,7 @@
   
    - [Data](#url)
    - [Database](url)
+   - Dataware house
    - [DBMS](url)
    - [Data format and DBMS](url)
    - Relational Database
@@ -40,3 +41,10 @@ Checkout these imortant SQL interview Questions [Here](https://prepkaro.com/sql-
 
 - **Data Science**
 
+- **Interview Questions**
+
+- **Puzzles**
+
+- **Consulting Case Studeis**
+
+### Reference 
