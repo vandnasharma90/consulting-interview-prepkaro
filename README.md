@@ -2,14 +2,14 @@
 
 
 
-[What is System Design ?](#what-is-system-design-)
+[What is consulting ?](#url)
 
-- **Operating System Concepts**
+- **Database**
   
-   - [CPU and Memory](#cpu-and-memory)
-   - Race Condition
-   - [Cahche](#cahcing)
-
-- **Networking Concepts**
+   - [Data](#url)
+   - [Database](url)
+   - [DBMS](url)
+   
+- **Visualization**
   
-  - [IP](#url)
+  - [PowerBI](url)
