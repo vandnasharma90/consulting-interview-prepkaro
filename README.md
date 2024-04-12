@@ -47,4 +47,16 @@ Checkout these imortant SQL interview Questions [Here](https://prepkaro.com/sql-
 
 - **Consulting Case Studeis**
 
-### Reference 
+
+# Finance 
+
+### Financial Market 
+ * [Financial Markets: Role in the Economy, Importance, Types, and Examples](https://www.investopedia.com/terms/f/financial-market.asp)
+ * [What are Financial Markets?](https://www.myespresso.com/bootcamp/module/market-basics/what-are-financial-markets)
+
+Glossary
+
+|ABC | EFG |
+|----| ----|
+|    |     |
+## # Reference 
